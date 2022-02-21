@@ -1,0 +1,602 @@
+[
+    {
+    "img": "assets/img/napoleon-hill.jpg ",
+    "altimg": "napoleonhill",
+    "text": "What a person's mind can comprehend and what he can believe, he is able to achieve",
+    "author": "Napoleon Hill, journalist and writer"
+    },
+    {
+    "img": "assets/img/einsht.jpg ",
+    "altimg": "enshtain",
+    "text": "Strive not for success, but for the values it gives",
+    "author": "Albert Einstein"
+    },
+    {
+    "img": "assets/img/florence.jpg",
+    "altimg": "florence",
+    "text": "I owe my success to the fact that I have never made excuses or accepted excuses from others",
+    "author": "Florence Nightingale"
+    },
+    {
+    "img": "assets/img/michael-jordan.jpg",
+    "altimg": "michael-jordan",
+    "text": "During my career, I missed more than 9,000 shots, lost almost 300 games",
+    "author": "Michael Jordan"
+    },
+    {
+    "img": "assets/img/amelia-earhart.jpg ",
+    "altimg": "amelia-earhart",
+    "text": "The hardest thing is to start acting, everything else depends only on perseverance",
+    "author": "Amelia Earhart"
+    },
+    {
+    "img": "assets/img/fedor.jpg ",
+    "altimg": "fedor",
+    "text": "One must love life more than the meaning of life",
+    "author": "Fyodor Dostoevsky"
+    },
+    {
+    "img": "assets/img/jhonlenon.jpg",
+    "altimg": "jhonlenon",
+    "text": "Life is what happens to you while you're making plans",
+    "author": "John Lennon"
+    },
+    {
+    "img": "assets/img/einsht.jpg ",
+    "altimg": "enshtain",
+    "text": "Logic can lead you from point A to point B, and imagination - anywhere",
+    "author": "Albert Einstein"
+    },
+    {
+    "img": "assets/img/twen.jpg ",
+    "altimg": "twen",
+    "text": "In 20 years you will be more disappointed with the things you didn't do than the ones you did",
+    "author": "Mark Twain"
+    },
+    {
+    "img": "assets/img/boriastr.jpg ",
+    "altimg": "boriastr",
+    "text": "It's always worth starting with something that sows doubts",
+    "author": "Boris Strugatsky"
+    },
+    {
+    "img": "assets/img/fazilesk.jpg",
+    "altimg": "fazilesk",
+    "text": "Real responsibility is only personal",
+    "author": "Fazil Iskander"
+    },
+    {
+    "img": "assets/img/socrat.jpg ",
+    "altimg": "socrat",
+    "text": "An unintelligent life is not worth living",
+    "author": "Socrates"
+    },
+    {
+    "img": "assets/img/vudiallen.jpg ",
+    "altimg": "vudiallen",
+    "text": "80% of success is to appear in the right place at the right time",
+    "author": "Woody Allen"
+    },
+    {
+    "img": "assets/img/steve_jobs.jpg ",
+    "altimg": "steve_jobs",
+    "text": "Your time is limited, don't waste it living someone else's life",
+    "author": "Steve Jobs"
+    },
+    {
+    "img": "assets/img/lombardi.jpg",
+    "altimg": "lombardi",
+    "text": "Victory is not everything, everything is a constant desire to win",
+    "author": "Vince Lombardi, American football coach"
+    },
+    {
+    "img": "assets/img/kant.jpg ",
+    "altimg": "kant",
+    "text": "Science is organized knowledge, wisdom is organized life",
+    "author": "Immanuel Kant"
+    },
+    {
+    "img": "assets/img/bonaparte-napoleon.jpg",
+    "altimg": "bonaparte-napoleon",
+    "text": "There is no word 'impossible' in my dictionary",
+    "author": "Napoleon Bonaparte"
+    },
+    {
+    "img": "assets/img/columb.jpg",
+    "altimg": "columb",
+    "text": "You will never cross the ocean unless you have the courage to lose sight of the shore",
+    "author": "Christopher Columbus"
+    },
+    {
+    "img": "assets/img/gandi.jpg ",
+    "altimg": "gandi",
+    "text": "Freedom is worthless if it does not include the freedom to make mistakes",
+    "author": "Mahatma Gandhi"
+    },
+    {
+    "img": "assets/img/jimron.jpg",
+    "altimg": "jimron",
+    "text": "Either you control your day, or the day controls you",
+    "author": "Jim Ron, speaker and business coach"
+    },
+    {
+    "img": "assets/img/Henry_ford.jpg ",
+    "altimg": "Henry_ford",
+    "text": "If you think you're capable of something, you're right; if you think you won't succeed, you're right too",
+    "author": "Henry Ford"
+    },
+    {
+    "img": "assets/img/twen.jpg ",
+    "altimg": "twen",
+    "text": "The two most important days in your life: the day you were born and the day you realized why",
+    "author": "Mark Twain"
+    },
+    {
+    "img": "assets/img/gete.jpg",
+    "altimg": "gete",
+    "text": "Start doing everything you can do – and even what you can at least dream of",
+    "author": "Johann Wolfgang Goethe"
+    },
+    {
+    "img": "assets/img/sinatra.jpg ",
+    "altimg": "sinatra",
+    "text": "The best revenge is a huge success",
+    "author": "Frank Sinatra"
+    },
+    {
+    "img": "assets/img/ziglar.jpg ",
+    "altimg": "ziglar",
+    "text": "It is often said that motivation does not last long",
+    "author": "Zig Ziglar, writer, businessman and marketing consultant"
+    },
+    {
+    "img": "assets/img/Boris_Akunin.jpg",
+    "altimg": "Boris_Akunin",
+    "text": "Weak people try to be no worse than others all their lives",
+    "author": "Boris Akunin"
+    },
+    {
+    "img": "assets/img/levtolstoj.jpg ",
+    "altimg": "levtolstoj",
+    "text": "It's all about thoughts",
+    "author": "Leo Tolstoy"
+    },
+    {
+    "img": "assets/img/aristotel.jpg ",
+    "altimg": "aristotel",
+    "text": "There is only one way to avoid criticism: do nothing, say nothing and be nobody",
+    "author": "Aristotle"
+    },
+    {
+    "img": "assets/img/emerson.jpg",
+    "altimg": "emerson",
+    "text": "The person you are destined to become is only the person you decide to become",
+    "author": "Ralph Waldo Emerson, essayist, poet and philosopher"
+    },
+    {
+    "img": "assets/img/Thoreau.jpg ",
+    "altimg": "Thoreau",
+    "text": "Walk confidently towards the dream",
+    "author": "Henry David Thoreau, writer, thinker, naturalist"
+    },
+    {
+    "img": "assets/img/ermabobek.jpg",
+    "altimg": "ermabobek",
+    "text": "I hope that at the end of my days, when I stand before God, I will not have a drop of talent left so that I can say to him I used everything that you gave me",
+    "author": "Erma Bombek, writer, journalist"
+    },
+    {
+    "img": "assets/img/baffet.jpg ",
+    "altimg": "buffet",
+    "text": "It's better to be sure of a good result than to hope for an excellent one",
+    "author": "Warren Buffett"
+    },
+    {
+    "img": "assets/img/sova.jpg",
+    "altimg": "Indian saying",
+    "text": "Some things can capture your attention, but focus better on those that capture your heart",
+    "author": "Indian proverb"
+    },
+    {
+    "img": "assets/img/theodore-roosevelt.jpg ",
+    "altimg": "theodore-roosevelt",
+    "text": "One has only to believe that you can – and you are already halfway to the goal",
+    "author": "Theodore Roosevelt"
+    },
+    {
+    "img": "assets/img/platon.jpg",
+    "altimg": "platon",
+    "text": "Don't blame a child for being afraid of the dark",
+    "author": "Plato"
+    },
+    {
+    "img": "assets/img/moisej.jpg ",
+    "altimg": "moisej",
+    "text": "Learn to speak “I do not know”, and this will already be progress",
+    "author": "Moses Maimonides, Jewish philosopher and theologian"
+    },
+    {
+    "img": "assets/img/arthur-ashe.jpg",
+    "altimg": "arthur-ashe",
+    "text": "Start from where you are now",
+    "author": "Arthur Ashe, tennis player"
+    },
+    {
+    "img": "assets/img/jhonlenon.jpg",
+    "altimg": "jhonlenon",
+    "text": "When I was 5 years old, my mother always said that the main thing in life is happiness",
+    "author": "John Lennon"
+    },
+    {
+    "img": "assets/img/sova.jpg",
+    "altimg": "jp saying",
+    "text": "Fall seven times and rise eight times",
+    "author": "Japanese saying"
+    },
+    {
+    "img": "assets/img/elenkeller.jpg ",
+    "altimg": "elenkeller",
+    "text": "When one door closes fortunately, another opens immediately",
+    "author": "Helen Keller, writer, lecturer, political activist"
+    },
+    {
+    "img": "assets/img/kofuzij.jpg ",
+    "altimg": "kofuzij",
+    "text": "Everything has its own beauty, but not everyone can see it",
+    "author": "Confucius"
+    },
+    {
+    "img": "assets/img/anne-frank.jpg ",
+    "altimg": "anne-frank",
+    "text": "How wonderful that you don't have to wait a minute to start making the world a better place",
+    "author": "Anne Frank"
+    },
+    {
+    "img": "assets/img/laoczy.jpg ",
+    "altimg": "laoczy",
+    "text": "When I get rid of who I am, I become who I can be",
+    "author": "Lao Tzu"
+    },
+    {
+    "img": "assets/img/lama.jpg ",
+    "altimg": "lama",
+    "text": "Happiness is not something ready-made",
+    "author": "Dalai Lama"
+    },
+    {
+    "img": "assets/img/senberg.jpg",
+    "altimg": "senberg",
+    "text": "If you are offered a place in a rocket carrier, do not ask what kind of place! Just take it",
+    "author": "Sheryl Sandberg, Facebook COO"
+    },
+    {
+    "img": "assets/img/aristotel.jpg ",
+    "altimg": "aristotel",
+    "text": "First decide on your ideal: set a goal",
+    "author": "Aristotle"
+    },
+    {
+    "img": "assets/img/sova.jpg ",
+    "altimg": "sova",
+    "text": "If there is no wind, take the oars",
+    "author": "Latin proverb"
+    },
+    {
+    "img": "assets/img/abraham-lincoln.jpg ",
+    "altimg": "abraham-lincoln",
+    "text": "Always rely on the idea that your own decision to succeed is much more important than anything else",
+    "author": "Abraham Lincoln"
+    },
+    {
+    "img": "assets/img/winston_churchill.jpg",
+    "altimg": "winston_churchill",
+    "text": "Success is the ability to go from defeat to defeat without losing optimism",
+"author": "Winston Churchill"
+},
+{
+"img": "assets/img/branson.jpg",
+"altimg": "branson",
+"text": "They ask: 'How can you manage all the cases in fifteen minutes?' I answer: 'It's simple'",
+"author": "Richard Branson, British entrepreneur, founder of Virgin Corporation"
+},
+{
+"img": "assets/img/levtolstoj.jpg ",
+"altimg": "levtolstoj",
+"text": "Everyone wants to change humanity, but no one thinks about how to change themselves",
+"author": "Leo Tolstoy"
+},
+{
+"img": "assets/img/marie-curie.jpg",
+"altimg": "marie-curie",
+"text": "It is important to believe that talent is given to us for a reason – and that at any cost it must be used for something",
+"author": "Marie Curie"
+},
+{
+"img": "assets/img/vangog.jpg ",
+"altimg": "vangog",
+"text": "If an inner voice tells you that you can't draw - draw as much as possible, then this voice will subside",
+"author": "Vincent Van Gogh"
+},
+{
+"img": "assets/img/William-Stone.jpg",
+"altimg": "William-Stone",
+"text": "Goal certainty is the starting point of all achievements",
+"author": "William Clement Stone, writer and businessman"
+},
+{
+"img": "assets/img/erl.jpg ",
+"altimg": "erl",
+"text": "We become what we think about",
+"author": "Earl Nightingale, radio host"
+},
+{
+"img": "assets/img/stiven.jpg ",
+"altimg": "stiven",
+"text": "I am not a victim of circumstances, I am the result of my decisions",
+"author": "Stephen Covey, consultant and lecturer in organizational management"
+},
+{
+"img": "assets/img/sova.jpg ",
+"altimg": "sova",
+"text": "The best time to plant a tree was 20 years ago",
+"author": "Chinese proverb"
+},
+{
+"img": "assets/img/PicassoPortrait.jpg ",
+"altimg": "PicassoPortrait",
+"text": "All children are artists",
+"author": "Pablo Picasso"
+},
+{
+"img": "assets/img/davinci.jpg ",
+"altimg": "davinci",
+"text": "I was struck by how important it is to take action",
+"author": "Leonardo da Vinci"
+},
+{
+"img": "assets/img/bobdilan.jpg",
+"altimg": "bobdilan",
+"text": "What is money? A person is successful if he wakes up in the morning, returns to bed in the evening, and does what he likes during the break",
+"author": "Bob Dylan"
+},
+{
+"img": "assets/img/franklin.jpg ",
+"altimg": "franklin",
+"text": "I didn't fail the test",
+"author": "Benjamin Franklin"
+},
+{
+"img": "assets/img/bruceli.jpg ",
+"altimg": "bruceli",
+"text": "Defeat is not defeat unless you recognize it as such in your mind",
+"author": "Bruce Lee"
+},
+{
+"img": "assets/img/Henry_ford.jpg",
+"altimg": "Henry_ford",
+"text": "Failure is just an opportunity to start again, but more wisely",
+"author": "Henry Ford"
+},
+{
+"img": "assets/img/branson.jpg",
+"altimg": "branson",
+"text": "I'm sure: you can't let the wretched word 'you can't' stop you",
+"author": "Richard Branson"
+},
+{
+"img": "assets/img/einsht.jpg ",
+"altimg": "enshtain",
+"text": "Only the one who doesn't try anything new never makes mistakes",
+"author": "Albert Einstein"
+},
+{
+"img": "assets/img/opra.jpg",
+"altimg": "opra",
+"text": "You become what you believe in",
+"author": "Oprah Winfrey, TV presenter"
+},
+{
+"img": "assets/img/levtolstoj.jpg ",
+"altimg": "levtolstoj",
+"text": "Happiness is not in always doing what you want, but in always wanting what you do",
+"author": "Leo Tolstoy"
+},
+{
+"img": "assets/img/vangog.jpg ",
+"altimg": "vangog",
+"text": "I'd rather die of passion than of boredom",
+"author": "Vincent van Gogh"
+},
+{
+"img": "assets/img/stiven.jpg",
+"altimg": "stiven",
+"text": "You learn the fastest in three cases - before the age of 7, at trainings, and when life has driven you into a corner",
+"author": "Stephen Covey"
+},
+{
+"img": "assets/img/Maya-Angelou.jpg",
+"altimg": "Maya Angelou",
+"text": "People will forget what you said will forget what you did, but will never forget what you made them feel",
+"author": "Maya Angelou, writer and poet"
+},
+{
+"img": "assets/img/budda.jpg ",
+"altimg": "budda",
+"text": "Our consciousness is everything",
+"author": "Buddha"
+},
+{
+"img": "assets/img/Antoine.jpg",
+"altimg": "Antoine",
+"text": "If you want to build a ship, you don't need to call people, plan, share work, get tools",
+"author": "Antoine de Saint-Exupery"
+},
+{
+"img": "assets/img/Ivan_Pavlov.jpg ",
+"altimg": "Ivan_Pavlov",
+"text": "Never think that you already know everything",
+"author": "Ivan Pavlov, a scientist-physiologist"
+},
+{
+"img": "assets/img/kofuzij.jpg",
+"altimg": "kofuzij",
+"text": "It's not as important how slowly you walk as how long you walk without stopping",
+"author": "Confucius"
+},
+{
+"img": "assets/img/opra.jpg ",
+"altimg": "opra",
+"text": "If you think about what you have in life, you can always have more",
+"author": "Oprah Winfrey"
+},
+{
+"img": "assets/img/tramp.jpg ",
+"altimg": "tramp",
+"text": "Turn your large-scale thoughts into large-scale actions as quickly as possible",
+"author": "Donald Trump"
+},
+{
+"img": "assets/img/laoczy.jpg",
+"altimg": "laoczy",
+"text": "To lead people, follow them",
+"author": "Lao Tzu"
+},
+{
+"img": "assets/img/lama.jpg ",
+"altimg": "lama",
+"text": "Remember that not achieving success is sometimes also a great success",
+"author": "Dalai Lama"
+},
+{
+"img": "assets/img/De_Gaulle.jpg ",
+"altimg": "De_Gaulle",
+"text": "Always choose the most difficult path - you will not meet competitors on it",
+"author": "Charles de Gaulle"
+},
+{
+"img": "assets/img/forbs_malkolm.jpg",
+"altimg": "forbs_malkolm",
+"text": "One completed productive task is worth fifty half-completed tasks",
+"author": "Malcolm Forbes"
+},
+{
+"img": "assets/img/Martin_Luther.jpg ",
+"altimg": "Martin_Luther",
+"text": "Our life begins to come to an end when we stop talking about really important things",
+"author": "Martin Luther King Jr."
+},
+{
+"img": "assets/img/rolan.jpg ",
+"altimg": "rolan",
+"text": "Trouble does not come alone, but luck too",
+"author": "Romain Rolland, writer"
+},
+{
+"img": "assets/img/turgeneev.jpg ",
+"altimg": "turgeneev",
+"text": "Every thought is like a test, it's worth mashing it well — you can make everything out of it",
+"author": "Ivan Turgenev"
+},
+{
+"img": "assets/img/theodore-roosevelt.jpg ",
+"altimg": "theodore-roosevelt",
+"text": "Do everything you can, wherever you are, using everything you have",
+"author": "Theodore Roosevelt"
+},
+{
+"img": "assets/img/Eleanor_Roosevelt.jpg",
+"altimg": "Eleanor_Roosevelt",
+"text": "Remember, no one can make you feel inferior without your consent",
+"author": "Eleanor Roosevelt"
+},
+{
+"img": "assets/img/oskar.jpg ",
+"altimg": "oskar",
+"text": "The world is divided into two classes - some believe in the incredible, others do the impossible",
+"author": "Oscar Wilde"
+},
+{
+"img": "assets/img/zolia.jpg ",
+"altimg": "zolia",
+"text": "The only happiness in life is a constant striving forward",
+"author": "Emile Zola"
+},
+{
+"img": "assets/img/Darwin.jpg",
+"altimg": "Darwin",
+"text": "Not the strongest survives, but the most susceptible to change",
+"author": "Charles Darwin"
+},
+{
+"img": "assets/img/arni.jpg",
+"altimg": "arni",
+"text": "You can say that you have bad genetics, bad metabolism, and you can just raise your ass off the couch and start working on yourself, set a goal and believe in yourself",
+"author": "Arnold Schwarzenegger"
+},
+{
+"img": "assets/img/mandela.jpg ",
+"altimg": "mandela",
+"text": "Never falling is not the greatest merit in life",
+"author": "Nelson Mandela"
+},
+{
+"img": "assets/img/Ayn_Rand.jpg",
+"altimg": "Ayn_Rand",
+"text": "The question is not who will allow me, but who will be able to forbid me",
+"author": "Ayn Rand"
+},
+{
+"img": "assets/img/Henry_ford.jpg ",
+"altimg": "Henry_ford",
+"text": "When it seems that the whole world is against you, remember that the plane takes off not in the wind, but against it",
+"author": "Henry Ford"
+},
+{
+"img": "assets/img/abraham-lincoln.jpg",
+"altimg": "abraham-lincoln",
+"text": "Life is measured not by how many years there are in it, but by how many years of real life there are in these years",
+"author": "Abraham Lincoln"
+},
+{
+"img": "assets/img/andersen.jpg ",
+"altimg": "andersen",
+"text": "To benefit the world is the only way to become happy",
+"author": "Hans Christian Andersen"
+},
+{
+"img": "assets/img/franklin.jpg ",
+"altimg": "franklin",
+"text": "Either write something worthwhile or do something worth writing about",
+"author": "Benjamin Franklin"
+},
+{
+"img": "assets/img/steve_jobs.jpg ",
+"altimg": "steve_jobs",
+"text": "The only way to do something very well is to love what you do",
+"author": "Steve Jobs"
+},
+{
+    "img": "assets/img/levtolstoj.jpg ",
+    "altimg": "levtolstoj",
+    "text": "A wise man demands everything only from himself, an insignificant man demands everything from others",
+    "author": "Leo Tolstoy"
+    },
+    {
+    "img": "assets/img/emerson.jpg",
+    "altimg": "emerson",
+    "text": "Great are those who see that thoughts rule the world",
+    "author": "Ralph Emerson"
+    },
+    {
+    "img": "assets/img/stiven.jpg ",
+    "altimg": "stiven",
+    "text": "Before climbing the ladder of success, make sure that it is leaning against the wall of the building that you need",
+    "author": "Stephen Covey"
+    },
+    {
+    "img": "assets/img/druker.jpg ",
+    "altimg": "druker",
+    "text": "At the origins of every successful enterprise is a bold decision once made",
+    "author": "Peter Drucker, American economist"
+    }
+    ]
